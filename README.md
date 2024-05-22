@@ -34,7 +34,7 @@
 3. sebas (creado por Sebastian Ramirez)
 
 ## CHANGELOG
-### Añadido - 2024-05-21
+#### Añadido - 2024-05-21
 * Creación del repositorio inicial en GitHub.
 * Configuración inicial del proyecto con un archivo README.md.
 * Creación de la rama `henao` para la funcionalidad de convertir un carácter a byte.
