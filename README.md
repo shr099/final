@@ -33,33 +33,28 @@
 2. juan (creada por Juan Muñoz)
 3. sebas (creado por Sebastian Ramirez)
 
-## Changelog
-##### Añadido - 2024-05-21
-* Creación del repositorio "final" en GitHub.
-* Configuración inicial del proyecto con un archivo README.md
-* Documentación del proyecto en el archivo README.md.
+##CHANGELOG
+ 
+### 2024-05-21
+### Añadido
+
+* Creación del repositorio inicial en GitHub.
+* Configuración inicial del proyecto con un archivo README.md.
+
 * Creación de la rama `henao` para la funcionalidad de convertir un carácter a byte.
 * Implementación de la función para convertir un carácter a byte en la rama `henao`.
-* Creación de la rama `juan` para la funcionalidad de convertir una palabra a bytes.
-* Implementación de la función para convertir una palabra a bytes en la rama `juan`.
+*Implementación de la función para convertir una palabra a bytes en la rama `henao `.
 * Creación de la rama `sebas` para la funcionalidad de convertir un byte a ASCII.
 * Implementación de la función para convertir un byte a ASCII en la rama `sebas`.
 * Implementación del menú de opciones en la rama `main`.
-* Documentación de las funcionalidades del menú en el archivo README.md.
-* Integración de todas las funcionalidades en la rama `main` a través de Pull Requests revisados por los compañeros.
-* Actualización del archivo README.md con la información de los integrantes del grupo y los comandos utilizados en Git.
-* Creación y documentación de Historias de Usuario en JIRA Software.
-* Adición de las URLs del repositorio de GitHub y el proyecto en JIRA en el README.md.
 
-##### Modificado - 2024-05-21
-* Mejora en la descripción de las funciones del menú y los ejemplos en el archivo README.md.
+### 2024-05-22
+##Añadido
 * Actualización del archivo .gitignore para incluir exclusiones específicas del proyecto.
- 
-##### Añadido - 2024-05-21
-
-* Revisión final del código y documentación.
-* Preparación y limpieza del proyecto para la entrega final.
-
+* Exclusión del archivo prueba.py
+* Actualización del archivo README.md con la información de los integrantes del grupo y los comandos utilizados en Git.
+* Pull request a la actualización del archivo README.md
+* Creación y documentación de Historias de Usuario en JIRA Software.
 
 
 ## Integrantes del proyecto:
