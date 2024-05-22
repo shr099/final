@@ -33,23 +33,18 @@
 2. juan (creada por Juan Muñoz)
 3. sebas (creado por Sebastian Ramirez)
 
-##CHANGELOG
- 
-### 2024-05-21
-### Añadido
-
+## CHANGELOG
+### Añadido - 2024-05-21
 * Creación del repositorio inicial en GitHub.
 * Configuración inicial del proyecto con un archivo README.md.
-
 * Creación de la rama `henao` para la funcionalidad de convertir un carácter a byte.
 * Implementación de la función para convertir un carácter a byte en la rama `henao`.
-*Implementación de la función para convertir una palabra a bytes en la rama `henao `.
+* Implementación de la función para convertir una palabra a bytes en la rama `henao `.
 * Creación de la rama `sebas` para la funcionalidad de convertir un byte a ASCII.
 * Implementación de la función para convertir un byte a ASCII en la rama `sebas`.
 * Implementación del menú de opciones en la rama `main`.
 
-### 2024-05-22
-##Añadido
+### Añadido - 2024-05-22
 * Actualización del archivo .gitignore para incluir exclusiones específicas del proyecto.
 * Exclusión del archivo prueba.py
 * Actualización del archivo README.md con la información de los integrantes del grupo y los comandos utilizados en Git.
