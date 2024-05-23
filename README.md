@@ -44,7 +44,7 @@
 * Implementación de la función para convertir un byte a ASCII en la rama `sebas`.
 * Implementación del menú de opciones en la rama `main`.
 
-### Añadido - 2024-05-22
+#### Añadido - 2024-05-22
 * Actualización del archivo .gitignore para incluir exclusiones específicas del proyecto.
 * Exclusión del archivo prueba.py
 * Actualización del archivo README.md con la información de los integrantes del grupo y los comandos utilizados en Git.
